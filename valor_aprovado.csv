@@ -1,29 +1,29 @@
-﻿"""Unidade da Federação"";""Valor aprovado"""
-"""11 Rondônia"";1162970921,06"
-"""12 Acre"";378612433,99"
-"""13 Amazonas"";1694807194,57"
-"""14 Roraima"";298518674,58"
-"""15 Pará"";3172633635,58"
-"""16 Amapá"";312335522,20"
-"""17 Tocantins"";607051221,60"
-"""21 Maranhão"";3945283485,04"
-"""22 Piauí"";1648598293,92"
-"""23 Ceará"";3817697345,82"
-"""24 Rio Grande do Norte"";1832354346,68"
-"""25 Paraíba"";1787466725,33"
-"""26 Pernambuco"";5107205413,42"
-"""27 Alagoas"";1721520673,53"
-"""28 Sergipe"";864547854,08"
-"""29 Bahia"";7112506799,57"
-"""31 Minas Gerais"";10788897441,83"
-"""32 Espírito Santo"";2302384244,62"
-"""33 Rio de Janeiro"";9457851589,24"
-"""35 São Paulo"";29587885632,31"
-"""41 Paraná"";6639265915,04"
-"""42 Santa Catarina"";4461147865,46"
-"""43 Rio Grande do Sul"";6870312655,07"
-"""50 Mato Grosso do Sul"";1323098902,24"
-"""51 Mato Grosso"";1640365603,39"
-"""52 Goiás"";3847077058,99"
-"""53 Distrito Federal"";1493530774,72"
-"""Total"";113875928223,88"
+﻿Unidade da Federação;Valor aprovado
+11 Rondônia;1162970921,06
+12 Acre;378612433,99
+13 Amazonas;1694807194,57
+14 Roraima;298518674,58
+15 Pará;3172633635,58
+16 Amapá;312335522,20
+17 Tocantins;607051221,60
+21 Maranhão;3945283485,04
+22 Piauí;1648598293,92
+23 Ceará;3817697345,82
+24 Rio Grande do Norte;1832354346,68
+25 Paraíba;1787466725,33
+26 Pernambuco;5107205413,42
+27 Alagoas;1721520673,53
+28 Sergipe;864547854,08
+29 Bahia;7112506799,57
+31 Minas Gerais;10788897441,83
+32 Espírito Santo;2302384244,62
+33 Rio de Janeiro;9457851589,24
+35 São Paulo;29587885632,31
+41 Paraná;6639265915,04
+42 Santa Catarina;4461147865,46
+43 Rio Grande do Sul;6870312655,07
+50 Mato Grosso do Sul;1323098902,24
+51 Mato Grosso;1640365603,39
+52 Goiás;3847077058,99
+53 Distrito Federal;1493530774,72
+Total;113875928223,88

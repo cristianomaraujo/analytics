@@ -1,29 +1,29 @@
-﻿"""Unidade da Federação"";""Qtd.aprovada"""
-"""11 Rondônia"";165701585"
-"""12 Acre"";60853357"
-"""13 Amazonas"";248239424"
-"""14 Roraima"";34186634"
-"""15 Pará"";496035363"
-"""16 Amapá"";32828415"
-"""17 Tocantins"";100667337"
-"""21 Maranhão"";621712961"
-"""22 Piauí"";176822361"
-"""23 Ceará"";619328157"
-"""24 Rio Grande do Norte"";266959586"
-"""25 Paraíba"";248565562"
-"""26 Pernambuco"";715935558"
-"""27 Alagoas"";223422845"
-"""28 Sergipe"";136806591"
-"""29 Bahia"";911868967"
-"""31 Minas Gerais"";1776575159"
-"""32 Espírito Santo"";440862881"
-"""33 Rio de Janeiro"";1451908879"
-"""35 São Paulo"";6137770081"
-"""41 Paraná"";1337202488"
-"""42 Santa Catarina"";913125384"
-"""43 Rio Grande do Sul"";889278797"
-"""50 Mato Grosso do Sul"";249150559"
-"""51 Mato Grosso"";313646998"
-"""52 Goiás"";621606969"
-"""53 Distrito Federal"";226104069"
-"""Total"";19417166967"
+﻿Unidade da Federação;Qtd.aprovada
+11 Rondônia;165701585
+12 Acre;60853357
+13 Amazonas;248239424
+14 Roraima;34186634
+15 Pará;496035363
+16 Amapá;32828415
+17 Tocantins;100667337
+21 Maranhão;621712961
+22 Piauí;176822361
+23 Ceará;619328157
+24 Rio Grande do Norte;266959586
+25 Paraíba;248565562
+26 Pernambuco;715935558
+27 Alagoas;223422845
+28 Sergipe;136806591
+29 Bahia;911868967
+31 Minas Gerais;1776575159
+32 Espírito Santo;440862881
+33 Rio de Janeiro;1451908879
+35 São Paulo;6137770081
+41 Paraná;1337202488
+42 Santa Catarina;913125384
+43 Rio Grande do Sul;889278797
+50 Mato Grosso do Sul;249150559
+51 Mato Grosso;313646998
+52 Goiás;621606969
+53 Distrito Federal;226104069
+Total;19417166967
